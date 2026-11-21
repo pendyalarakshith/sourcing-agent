@@ -1,0 +1,8 @@
+requests
+python-dotenv
+pydantic
+rapidfuzz
+streamlit
+faker
+pytest
+openai
